@@ -10,3 +10,4 @@ projects[ting][download][type] = "git"
 projects[ting][download][url] = "git@github.com:easyddb/ting.git"
 projects[ting][download][tag] = ""
 projects[ting][download][branch] = "easyddb"
+
